@@ -1,0 +1,6 @@
+config.env
+/dev-data/
+/public
+/node_modules/
+.prettierrc
+package-lock.json
