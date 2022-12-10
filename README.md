@@ -1,3 +1,1 @@
-# SCORY - sport events scores, stats and more
 
-more soon...
